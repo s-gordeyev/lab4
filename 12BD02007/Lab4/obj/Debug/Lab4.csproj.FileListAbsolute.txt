@@ -1,0 +1,10 @@
+c:\home\Lab4\tra\lab3\12BD02007\Lab3\bin\Lab3.dll
+c:\home\Lab4\tra\lab3\12BD02007\Lab3\bin\Lab3.pdb
+c:\home\Lab4\tra\lab3\12BD02007\Lab3\obj\Debug\ResolveAssemblyReference.cache
+c:\home\Lab4\tra\lab3\12BD02007\Lab3\obj\Debug\Lab3.dll
+c:\home\Lab4\tra\lab3\12BD02007\Lab3\obj\Debug\Lab3.pdb
+C:\home\Lab4\tra\lab3\12BD02007\Lab4\bin\Lab3.dll
+C:\home\Lab4\tra\lab3\12BD02007\Lab4\bin\Lab3.pdb
+C:\home\Lab4\tra\lab3\12BD02007\Lab4\obj\Debug\ResolveAssemblyReference.cache
+C:\home\Lab4\tra\lab3\12BD02007\Lab4\obj\Debug\Lab3.dll
+C:\home\Lab4\tra\lab3\12BD02007\Lab4\obj\Debug\Lab3.pdb
